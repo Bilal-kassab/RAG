@@ -5,7 +5,7 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { RagModule } from './rag/rag.module';
 import { join } from 'path';
-import * as admin from 'firebase-admin';
+// import * as admin from 'firebase-admin';
 
 @Module({
   imports: [
